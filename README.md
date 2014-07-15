@@ -50,7 +50,7 @@ console.log(moduleFormats.detect(source));
 
 
 Integration
-___________
+-----------
 
 If you use [broccoli][], you should be able to use this plugin: https://github.com/yahoo/broccoli-js-module-formats
 
