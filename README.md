@@ -49,6 +49,13 @@ console.log(moduleFormats.detect(source));
 **Note:** ES modules without `import` or `export` statements will not be detected.
 
 
+Integration
+___________
+
+If you use [broccoli][], you should be able to use this plugin: https://github.com/yahoo/broccoli-js-module-formats
+
+[broccoli]: https://github.com/broccolijs/broccoli
+
 License
 -------
 
